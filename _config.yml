@@ -2,7 +2,7 @@
 name: "AMP Affiliately Jekyll Theme"
 title: "AMP Affiliately Jekyll Theme"
 description: "An AMP-ready Jekyll blog theme"
-url: /
+url: 
 baseurl: '/amp-affiliately-jekyll-theme'
 favicon: 'assets/images/favicon.png'
 logo: 'assets/images/logo-plainSVG.svg'
@@ -11,7 +11,7 @@ paginate: 6
 timezone: 'Asia/Hong_Kong'
 
 # Set <USERNAME>/<PROJECT> to display the button to the project
-repository: fitriarf09/Cierpy
+repository: fitriarf09/fitriarf09.github.io
 
 # Navigation features
 nav:
