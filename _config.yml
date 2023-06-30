@@ -11,7 +11,7 @@ paginate: 6
 timezone: 'Asia/Hong_Kong'
 
 # Set <USERNAME>/<PROJECT> to display the button to the project
-repository: chriskyfung/amp-affiliately-jekyll-theme
+repository: fitriarf09/Cierpy
 
 # Navigation features
 nav:
